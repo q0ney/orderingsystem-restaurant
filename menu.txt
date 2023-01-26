@@ -1,0 +1,18 @@
+Pizza Frodo;20;sos pomidorowy,ser
+Pizza Gandalf;22;sos pomidorowy, ser , szynka
+Pizza Legolas;21;sos pomidorowy, ser , pieczarki
+Pizza Samwise Gamgee;26;sos pomidorowy,vege ser, pieczarki
+Pizza Aragorn;30;sos bbq, ser , szynka, boczek, cebula
+Burger Bilbo;23;ser, wolowina 100g, salata, pomidor, cebula
+Burger Thorin;27;ser, wolowina 100g x2, salata, pomidor, cebula
+Burger Kili;24;ser x2, wolowina 100g, salata, pomidor, cebula
+Burger Fili;25;ser x2, kurczak 150g, salata, pomidor, cebula
+Burger Dwalin;28;vege ser, vege mieso 100g, salata, pomidor, cebula
+Frytki 200g;12
+Smazone serki 4szt;14
+Chlebki czosnkowe 4szt.;19
+Lemoniada;10
+Coca-cola;6
+Sprite;6
+Kawa;8
+Herbata;5
